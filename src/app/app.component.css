@@ -1,0 +1,28 @@
+#RegForm {
+  float: left;
+}
+.display {
+  float: right;
+}
+.field {
+  width: 500px;
+  clear: both;
+  color: rebeccapurple;
+}
+
+.field input {
+  width: 50%;
+  clear: both;
+}
+form {
+  display: table;
+}
+p {
+  display: table-row;
+}
+label {
+  display: table-cell;
+}
+input {
+  display: table-cell;
+}
